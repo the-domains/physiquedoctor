@@ -1,0 +1,12 @@
+layout_spectrum: 0.01373955
+typography_spectrum: 0.8739546
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.8739546
+  brandColors:
+    - '#000000'
+    - '#29292B'
+    - '#C72D22'
+  rhythmicContrast: 0.6816009
+name: PhysiqueDoctor
